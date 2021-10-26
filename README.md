@@ -1,2 +1,2 @@
-# XTU_assignment
-practice and ideas
+## 分享了一些大学作业和练习的代码 
+# 全部开源 
